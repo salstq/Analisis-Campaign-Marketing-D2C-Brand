@@ -1,0 +1,17 @@
+# Analisis-Campaign-Marketing-D2C-Brand
+
+## Project Overview
+
+## Business Understanding
+
+## Data Understanding
+
+## Data Cleaning
+| Kolom                         | Deskripsi                                         | Tipe Data    |
+|-------------------------------|---------------------------------------------------|--------------|
+
+## SQL Analysis
+
+## Dashboard
+
+## Business Insight
