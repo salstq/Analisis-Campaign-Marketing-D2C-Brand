@@ -1,0 +1,11 @@
+id,name,type,start_date,end_date,total_budget,status
+1,Ramadan Glow 2026,Awareness,2026-02-15,2026-03-31,50000000,Completed
+2,Healthy Living Campaign,Conversion,2026-01-10,2026-04-10,75000000,Completed
+3,Summer Skin Boost,Awareness,2026-05-01,2026-06-30,60000000,Completed
+4,Vitamin Challenge,Engagement,2026-03-01,2026-05-31,30000000,Completed
+5,Beauty Week Promo,Conversion,2026-04-15,2026-05-15,45000000,Completed
+6,Healthy Skin Journey,Conversion,2026-05-01,2026-07-15,80000000,Active
+7,Glow Everyday,Awareness,2026-06-01,2026-08-31,65000000,Active
+8,New Product Launch,Awareness,2026-07-01,2026-09-30,90000000,Active
+9,Back To Wellness,Conversion,2026-08-01,2026-10-31,85000000,Planned
+10,Year End Glow,Conversion,2026-10-01,2026-12-31,120000000,Planned
